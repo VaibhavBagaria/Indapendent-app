@@ -116,17 +116,15 @@ scroll-behavior: smooth;
     background-color: orangered;
 }
 
-.contact1 h3{
-    display:inline;
-}
-
 .contact1 a{
     color:white;
     text-shadow: none;
 }
 
 #H_map{
-   width:350px;
+   width:550px;
+   height: 350px;
+   font-size: 50px;
 }
 
 #H_map:hover{
@@ -137,8 +135,10 @@ scroll-behavior: smooth;
 #number {
     color:red;
     background-color: yellow;
+    font-size:50px;
 }
 
 #number:hover {
     font-style: underline;
+    display:inline;
 }
